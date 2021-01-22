@@ -1,0 +1,4 @@
+export const USER_EVENTS={
+    GET_TOKEN:'GET_TOKEN',
+    SAVE_USER_DATA:'SAVE_USER_DATA'
+}
